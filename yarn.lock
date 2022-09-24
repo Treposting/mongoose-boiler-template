@@ -157,6 +157,11 @@
   resolved "https://registry.yarnpkg.com/@types/strip-json-comments/-/strip-json-comments-0.0.30.tgz#9aa30c04db212a9a0649d6ae6fd50accc40748a1"
   integrity sha512-7NQmHra/JILCd1QqpSzl8+mJRc8ZHz3uDm8YV1Ks9IhK0epEiTw8aIErbvH9PI+6XbqhyIQy3462nEsn7UVzjQ==
 
+"@types/validator@^13.7.6":
+  version "13.7.6"
+  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.6.tgz#631f1acd15cbac9cb0a114da7e87575f1c95b46a"
+  integrity sha512-uBsnWETsUagQ0n6G2wcXNIufpTNJir0zqzG4p62fhnwzs48d/iuOWEEo0d3iUxN7D+9R/8CSvWGKS+KmaD0mWA==
+
 "@types/webidl-conversions@*":
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/@types/webidl-conversions/-/webidl-conversions-7.0.0.tgz#2b8e60e33906459219aa587e9d1a612ae994cfe7"
